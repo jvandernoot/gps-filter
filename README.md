@@ -3,7 +3,7 @@ Drone software records GPS, and wide range of other, information that can be out
 
 To use:
 
-1. Copy the .exe file from the bin\Release folder and place into a folder on your local computer.
+1. Copy the .exe and .config files from the bin\Release folder and place into a folder on your local computer.
 2. Update your system path to include the path to the location above:
   - Open your computer's System Properties
   - Click on *Environment Variables*
