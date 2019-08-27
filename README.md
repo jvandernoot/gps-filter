@@ -9,6 +9,8 @@ To use:
   - Click on *Environment Variables*
   - Under *System Variables* double-click on *Path*
   - Add a new value of the full path to the directory where you placed the exe above
+3. Open a command line or Powershell window.
+4. Read the rest of this file to find out how to use the functions within the tool.
 
 Below is a list of functions supported by this command-line tool:
 
