@@ -13,7 +13,7 @@ namespace jvandernoot.GpsFilter
             if (cla == null) return;
 
             var rawSource = File.ReadAllText(cla.SourceFilePath);
-            var sourceRecords = rawSource.Split(new string[] { "\r\n" }, StringSplitOptions.RemoveEmptyEntries);
+            var sourceRecords = rawSource.Split(new string[] { "\n" }, StringSplitOptions.RemoveEmptyEntries);
 
             string previousDate = "";
             bool headerHandled = false;
